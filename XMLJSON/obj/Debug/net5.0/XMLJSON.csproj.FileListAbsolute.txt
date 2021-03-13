@@ -1,0 +1,15 @@
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/bin/Debug/net5.0/XMLJSON.deps.json
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/bin/Debug/net5.0/XMLJSON.runtimeconfig.json
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/bin/Debug/net5.0/XMLJSON.runtimeconfig.dev.json
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/bin/Debug/net5.0/XMLJSON.dll
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/bin/Debug/net5.0/ref/XMLJSON.dll
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/bin/Debug/net5.0/XMLJSON.pdb
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/obj/Debug/net5.0/XMLJSON.csprojAssemblyReference.cache
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/obj/Debug/net5.0/XMLJSON.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/obj/Debug/net5.0/XMLJSON.AssemblyInfoInputs.cache
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/obj/Debug/net5.0/XMLJSON.AssemblyInfo.cs
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/obj/Debug/net5.0/XMLJSON.csproj.CoreCompileInputs.cache
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/obj/Debug/net5.0/XMLJSON.dll
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/obj/Debug/net5.0/ref/XMLJSON.dll
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/obj/Debug/net5.0/XMLJSON.pdb
+/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/XMLJSON/obj/Debug/net5.0/XMLJSON.genruntimeconfig.cache
