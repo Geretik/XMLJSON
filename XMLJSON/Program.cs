@@ -73,17 +73,26 @@ namespace XMLJSON
                 predmet.studentPredmetu = studenti.ToArray();
 
                 var fileName = @"/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/studenti2rocniku.json";
-                var jsonString = JsonSerializer.Serialize(predmet);
-                File.WriteAllText(fileName, jsonString);
-
+                // var jsonString = JsonSerializer.Serialize(predmet);
+                //
+                // File.WriteAllText(fileName, jsonString);
+                //
+                
+                byte[] jsonUtf8Bytes;
+                var options = new JsonSerializerOptions
+                {
+                    WriteIndented = true
+                };
+                jsonUtf8Bytes = JsonSerializer.SerializeToUtf8Bytes(predmet, options);
+                
+                File.WriteAllBytes(fileName, jsonUtf8Bytes);
             }
             catch (Exception e)
             {
                 Console.WriteLine(e);
                 throw;
             }
-
-
+            
             try
             {
                 var file = File.ReadAllText(@"/Users/gerete/Documents/ZP4CS/XMLJSON/XMLJSON/nakaza.json");
