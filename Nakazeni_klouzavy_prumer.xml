@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RootobjectPrumer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <modified>2021-03-14T23:00:11.482314+01:00</modified>
+  <modified>2021-03-15T21:54:05.403052+01:00</modified>
   <source>https://onemocneni-aktualne.mzcr.cz/</source>
   <data>
     <DatumPrumer>
@@ -217,607 +217,607 @@
       <datum>2020-03-02</datum>
       <prirustkovy_pocet_nakazenych>0</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>3</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>0.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>0</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-03</datum>
       <prirustkovy_pocet_nakazenych>2</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>5</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>0.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-04</datum>
       <prirustkovy_pocet_nakazenych>1</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>6</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>0.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-05</datum>
       <prirustkovy_pocet_nakazenych>3</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>0.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-06</datum>
       <prirustkovy_pocet_nakazenych>11</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>20</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>1.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-07</datum>
       <prirustkovy_pocet_nakazenych>7</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>27</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-08</datum>
       <prirustkovy_pocet_nakazenych>6</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>33</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-09</datum>
       <prirustkovy_pocet_nakazenych>6</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>39</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>5</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-10</datum>
       <prirustkovy_pocet_nakazenych>25</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>64</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>5.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>8</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-11</datum>
       <prirustkovy_pocet_nakazenych>31</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>95</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>8.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>13</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-12</datum>
       <prirustkovy_pocet_nakazenych>22</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>117</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>15</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-13</datum>
       <prirustkovy_pocet_nakazenych>25</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>142</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>15.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>17</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-14</datum>
       <prirustkovy_pocet_nakazenych>48</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>190</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>17.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>23</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-15</datum>
       <prirustkovy_pocet_nakazenych>109</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>299</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>23.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>38</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-16</datum>
       <prirustkovy_pocet_nakazenych>85</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>384</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>38</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>49</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-17</datum>
       <prirustkovy_pocet_nakazenych>67</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>451</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>49.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>55</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-18</datum>
       <prirustkovy_pocet_nakazenych>110</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>561</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>55.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>67</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-19</datum>
       <prirustkovy_pocet_nakazenych>206</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>767</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>66.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>93</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-20</datum>
       <prirustkovy_pocet_nakazenych>124</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>891</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>92.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>107</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-21</datum>
       <prirustkovy_pocet_nakazenych>159</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>1050</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>107</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>123</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-22</datum>
       <prirustkovy_pocet_nakazenych>115</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>1165</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>122.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>124</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-23</datum>
       <prirustkovy_pocet_nakazenych>126</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>1291</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>123.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>130</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-24</datum>
       <prirustkovy_pocet_nakazenych>185</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>1476</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>129.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>146</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-25</datum>
       <prirustkovy_pocet_nakazenych>292</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>1768</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>146.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>172</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-26</datum>
       <prirustkovy_pocet_nakazenych>259</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>2027</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>172.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>180</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-27</datum>
       <prirustkovy_pocet_nakazenych>377</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>2404</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>180</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>216</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-28</datum>
       <prirustkovy_pocet_nakazenych>263</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>2667</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>216.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>231</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-29</datum>
       <prirustkovy_pocet_nakazenych>159</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>2826</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>231</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>237</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-30</datum>
       <prirustkovy_pocet_nakazenych>184</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>3010</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>237.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>246</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-03-31</datum>
       <prirustkovy_pocet_nakazenych>304</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>3314</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>245.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>263</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-01</datum>
       <prirustkovy_pocet_nakazenych>283</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>3597</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>262.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>261</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-02</datum>
       <prirustkovy_pocet_nakazenych>268</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>3865</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>261.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>263</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-03</datum>
       <prirustkovy_pocet_nakazenych>333</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>4198</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>262.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>256</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-04</datum>
       <prirustkovy_pocet_nakazenych>283</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>4481</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>256.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>259</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-05</datum>
       <prirustkovy_pocet_nakazenych>117</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>4598</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>259.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>253</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-06</datum>
       <prirustkovy_pocet_nakazenych>236</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>4834</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>253.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>261</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-07</datum>
       <prirustkovy_pocet_nakazenych>196</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>5030</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>260.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>245</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-08</datum>
       <prirustkovy_pocet_nakazenych>294</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>5324</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>245.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>247</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-09</datum>
       <prirustkovy_pocet_nakazenych>257</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>5581</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>246.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>245</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-10</datum>
       <prirustkovy_pocet_nakazenych>163</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>5744</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>245.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>221</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-11</datum>
       <prirustkovy_pocet_nakazenych>170</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>5914</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>220.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>205</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-12</datum>
       <prirustkovy_pocet_nakazenych>89</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>6003</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>204.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>201</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-13</datum>
       <prirustkovy_pocet_nakazenych>68</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>6071</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>200.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>177</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-14</datum>
       <prirustkovy_pocet_nakazenych>82</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>6153</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>176.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>160</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-15</datum>
       <prirustkovy_pocet_nakazenych>160</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>6313</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>160.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>141</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-16</datum>
       <prirustkovy_pocet_nakazenych>132</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>6445</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>141.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>123</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-17</datum>
       <prirustkovy_pocet_nakazenych>116</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>6561</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>123.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>117</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-18</datum>
       <prirustkovy_pocet_nakazenych>105</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>6666</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>116.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>107</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-19</datum>
       <prirustkovy_pocet_nakazenych>92</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>6758</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>107.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>108</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-20</datum>
       <prirustkovy_pocet_nakazenych>154</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>6912</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>107.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>120</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-21</datum>
       <prirustkovy_pocet_nakazenych>133</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7045</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>120.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>127</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-22</datum>
       <prirustkovy_pocet_nakazenych>99</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7144</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>127.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>119</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-23</datum>
       <prirustkovy_pocet_nakazenych>55</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7199</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>118.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>108</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-24</datum>
       <prirustkovy_pocet_nakazenych>86</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7285</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>107.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>103</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-25</datum>
       <prirustkovy_pocet_nakazenych>79</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7364</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>103.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>100</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-26</datum>
       <prirustkovy_pocet_nakazenych>52</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7416</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>99.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>94</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-27</datum>
       <prirustkovy_pocet_nakazenych>41</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7457</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>94</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>78</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-28</datum>
       <prirustkovy_pocet_nakazenych>60</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7517</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>77.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>67</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-29</datum>
       <prirustkovy_pocet_nakazenych>75</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7592</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>67.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>64</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-04-30</datum>
       <prirustkovy_pocet_nakazenych>104</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7696</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>64</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>71</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-01</datum>
       <prirustkovy_pocet_nakazenych>55</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7751</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>67</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-02</datum>
       <prirustkovy_pocet_nakazenych>18</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7769</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>66.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>58</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-03</datum>
       <prirustkovy_pocet_nakazenych>26</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7795</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>57.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>54</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-04</datum>
       <prirustkovy_pocet_nakazenych>38</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7833</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>54.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>54</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-05</datum>
       <prirustkovy_pocet_nakazenych>77</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7910</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>53.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>56</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-06</datum>
       <prirustkovy_pocet_nakazenych>79</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>7989</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>56.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>57</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-07</datum>
       <prirustkovy_pocet_nakazenych>58</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8047</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>56.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>50</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-08</datum>
       <prirustkovy_pocet_nakazenych>46</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8093</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>50.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>49</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-09</datum>
       <prirustkovy_pocet_nakazenych>18</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8111</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>48.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>49</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-10</datum>
       <prirustkovy_pocet_nakazenych>28</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8139</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>48.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>49</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-11</datum>
       <prirustkovy_pocet_nakazenych>56</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8195</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>49.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>52</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-12</datum>
       <prirustkovy_pocet_nakazenych>45</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8240</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>51.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>47</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-13</datum>
       <prirustkovy_pocet_nakazenych>50</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8290</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>47.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>43</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-14</datum>
       <prirustkovy_pocet_nakazenych>82</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8372</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>46</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-15</datum>
       <prirustkovy_pocet_nakazenych>55</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8427</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>46.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>48</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-16</datum>
       <prirustkovy_pocet_nakazenych>51</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8478</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>47.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>52</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-17</datum>
       <prirustkovy_pocet_nakazenych>20</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8498</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>52.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>51</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-18</datum>
       <prirustkovy_pocet_nakazenych>113</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8611</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>51.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>59</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-19</datum>
       <prirustkovy_pocet_nakazenych>62</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8673</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>59.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>62</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-20</datum>
       <prirustkovy_pocet_nakazenych>74</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8747</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>61.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>65</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-21</datum>
       <prirustkovy_pocet_nakazenych>35</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8782</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>65.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>59</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-22</datum>
       <prirustkovy_pocet_nakazenych>59</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8841</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>58.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>59</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-23</datum>
       <prirustkovy_pocet_nakazenych>77</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8918</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>59.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>63</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-24</datum>
       <prirustkovy_pocet_nakazenych>65</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>8983</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>62.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>69</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-25</datum>
       <prirustkovy_pocet_nakazenych>47</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9030</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>69.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>60</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-26</datum>
       <prirustkovy_pocet_nakazenych>51</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9081</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>59.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>58</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-27</datum>
       <prirustkovy_pocet_nakazenych>37</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9118</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>58.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>53</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-28</datum>
       <prirustkovy_pocet_nakazenych>54</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9172</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>53</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>56</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-29</datum>
       <prirustkovy_pocet_nakazenych>57</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9229</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>55.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>55</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-30</datum>
       <prirustkovy_pocet_nakazenych>34</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9263</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>55.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>49</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-05-31</datum>
       <prirustkovy_pocet_nakazenych>38</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9301</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>49.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>45</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-01</datum>
       <prirustkovy_pocet_nakazenych>34</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9335</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>45.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>44</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-02</datum>
       <prirustkovy_pocet_nakazenych>63</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9398</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>43.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>45</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-03</datum>
       <prirustkovy_pocet_nakazenych>74</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9472</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>45.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>51</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-04</datum>
       <prirustkovy_pocet_nakazenych>61</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9533</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>50.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>52</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-05</datum>
       <prirustkovy_pocet_nakazenych>35</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9568</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>51.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>48</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-06</datum>
       <prirustkovy_pocet_nakazenych>38</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9606</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>48.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>49</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-07</datum>
       <prirustkovy_pocet_nakazenych>61</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9667</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>49</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>52</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-08</datum>
       <prirustkovy_pocet_nakazenych>69</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9736</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>52.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>57</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-09</datum>
       <prirustkovy_pocet_nakazenych>55</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9791</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>57.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>56</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-10</datum>
       <prirustkovy_pocet_nakazenych>73</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9864</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>56.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>56</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-11</datum>
@@ -829,1645 +829,1657 @@
       <datum>2020-06-12</datum>
       <prirustkovy_pocet_nakazenych>52</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>9980</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>56.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>59</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-13</datum>
       <prirustkovy_pocet_nakazenych>53</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10033</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>58.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>61</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-14</datum>
       <prirustkovy_pocet_nakazenych>33</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10066</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>61</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>57</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-15</datum>
       <prirustkovy_pocet_nakazenych>40</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10106</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>53</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-16</datum>
       <prirustkovy_pocet_nakazenych>47</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10153</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>52.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>52</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-17</datum>
       <prirustkovy_pocet_nakazenych>51</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10204</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>51.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>49</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-18</datum>
       <prirustkovy_pocet_nakazenych>118</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10322</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>48.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>56</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-19</datum>
       <prirustkovy_pocet_nakazenych>126</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10448</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>56.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>67</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-20</datum>
       <prirustkovy_pocet_nakazenych>42</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10490</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>66.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>65</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-21</datum>
       <prirustkovy_pocet_nakazenych>50</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10540</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>65.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>68</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-22</datum>
       <prirustkovy_pocet_nakazenych>64</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10604</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>67.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>71</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-23</datum>
       <prirustkovy_pocet_nakazenych>89</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10693</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>71.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>77</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-24</datum>
       <prirustkovy_pocet_nakazenych>127</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10820</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>77.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>88</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-25</datum>
       <prirustkovy_pocet_nakazenych>93</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>10913</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>88</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>84</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-26</datum>
       <prirustkovy_pocet_nakazenych>168</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>11081</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>84.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>90</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-27</datum>
       <prirustkovy_pocet_nakazenych>260</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>11341</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>90.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>122</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-28</datum>
       <prirustkovy_pocet_nakazenych>305</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>11646</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>121.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>158</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-29</datum>
       <prirustkovy_pocet_nakazenych>201</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>11847</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>158</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>178</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-06-30</datum>
       <prirustkovy_pocet_nakazenych>149</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>11996</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>177.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>186</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-01</datum>
       <prirustkovy_pocet_nakazenych>91</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>12087</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>186.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>181</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-02</datum>
       <prirustkovy_pocet_nakazenych>132</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>12219</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>181</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>187</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-03</datum>
       <prirustkovy_pocet_nakazenych>140</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>12359</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>186.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>183</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-04</datum>
       <prirustkovy_pocet_nakazenych>121</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>12480</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>182.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>163</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-05</datum>
       <prirustkovy_pocet_nakazenych>75</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>12555</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>162.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>130</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-06</datum>
       <prirustkovy_pocet_nakazenych>51</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>12606</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>129.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>108</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-07</datum>
       <prirustkovy_pocet_nakazenych>118</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>12724</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>108.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>104</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-08</datum>
       <prirustkovy_pocet_nakazenych>129</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>12853</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>104</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>109</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-09</datum>
       <prirustkovy_pocet_nakazenych>105</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>12958</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>109.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>106</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-10</datum>
       <prirustkovy_pocet_nakazenych>141</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>13099</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>105.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>106</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-11</datum>
       <prirustkovy_pocet_nakazenych>53</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>13152</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>105.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>96</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-12</datum>
       <prirustkovy_pocet_nakazenych>59</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>13211</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>96</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>94</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-13</datum>
       <prirustkovy_pocet_nakazenych>64</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>13275</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>93.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>96</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-14</datum>
       <prirustkovy_pocet_nakazenych>104</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>13379</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>95.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>94</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-15</datum>
       <prirustkovy_pocet_nakazenych>134</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>13513</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>93.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>94</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-16</datum>
       <prirustkovy_pocet_nakazenych>137</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>13650</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>94.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>99</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-17</datum>
       <prirustkovy_pocet_nakazenych>128</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>13778</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>98.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>97</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-18</datum>
       <prirustkovy_pocet_nakazenych>112</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>13890</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>97</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>105</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-19</datum>
       <prirustkovy_pocet_nakazenych>91</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>13981</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>105.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>110</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-20</datum>
       <prirustkovy_pocet_nakazenych>168</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>14149</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>110</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>125</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-21</datum>
       <prirustkovy_pocet_nakazenych>207</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>14356</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>124.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>140</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-22</datum>
       <prirustkovy_pocet_nakazenych>245</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>14601</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>139.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>155</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-23</datum>
       <prirustkovy_pocet_nakazenych>231</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>14832</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>155.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>169</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-24</datum>
       <prirustkovy_pocet_nakazenych>278</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>15110</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>168.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>190</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-25</datum>
       <prirustkovy_pocet_nakazenych>132</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>15242</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>190.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>193</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-26</datum>
       <prirustkovy_pocet_nakazenych>114</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>15356</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>193.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>196</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-27</datum>
       <prirustkovy_pocet_nakazenych>194</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>15550</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>196.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>200</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-28</datum>
       <prirustkovy_pocet_nakazenych>276</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>15826</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>200.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>210</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-29</datum>
       <prirustkovy_pocet_nakazenych>274</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>16100</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>210</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>214</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-30</datum>
       <prirustkovy_pocet_nakazenych>254</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>16354</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>214.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>217</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-07-31</datum>
       <prirustkovy_pocet_nakazenych>231</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>16585</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>217.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>211</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-01</datum>
       <prirustkovy_pocet_nakazenych>124</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>16709</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>210.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>210</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-02</datum>
       <prirustkovy_pocet_nakazenych>101</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>16810</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>209.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>208</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-03</datum>
       <prirustkovy_pocet_nakazenych>208</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>17018</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>207.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>210</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-04</datum>
       <prirustkovy_pocet_nakazenych>287</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>17305</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>209.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>211</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-05</datum>
       <prirustkovy_pocet_nakazenych>241</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>17546</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>211.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>207</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-06</datum>
       <prirustkovy_pocet_nakazenych>214</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>17760</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>206.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>201</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-07</datum>
       <prirustkovy_pocet_nakazenych>322</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>18082</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>200.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>214</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-08</datum>
       <prirustkovy_pocet_nakazenych>173</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>18255</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>213.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>221</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-09</datum>
       <prirustkovy_pocet_nakazenych>122</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>18377</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>220.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>224</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-10</datum>
       <prirustkovy_pocet_nakazenych>141</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>18518</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>223.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>214</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-11</datum>
       <prirustkovy_pocet_nakazenych>288</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>18806</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>214.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>214</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-12</datum>
       <prirustkovy_pocet_nakazenych>289</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>19095</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>214.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>221</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-13</datum>
       <prirustkovy_pocet_nakazenych>330</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>19425</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>221.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>238</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-14</datum>
       <prirustkovy_pocet_nakazenych>291</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>19716</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>237.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>233</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-15</datum>
       <prirustkovy_pocet_nakazenych>197</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>19913</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>233.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>237</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-16</datum>
       <prirustkovy_pocet_nakazenych>121</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>20034</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>236.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>237</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-17</datum>
       <prirustkovy_pocet_nakazenych>191</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>20225</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>236.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>244</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-18</datum>
       <prirustkovy_pocet_nakazenych>281</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>20506</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>243.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>243</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-19</datum>
       <prirustkovy_pocet_nakazenych>312</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>20818</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>242.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>246</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-20</datum>
       <prirustkovy_pocet_nakazenych>246</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>21064</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>246.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>234</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-21</datum>
       <prirustkovy_pocet_nakazenych>504</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>21568</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>234.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>265</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-22</datum>
       <prirustkovy_pocet_nakazenych>234</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>21802</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>264.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>270</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-23</datum>
       <prirustkovy_pocet_nakazenych>136</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>21938</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>269.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>272</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-24</datum>
       <prirustkovy_pocet_nakazenych>259</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>22197</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>272</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>282</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-25</datum>
       <prirustkovy_pocet_nakazenych>364</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>22561</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>281.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>294</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-26</datum>
       <prirustkovy_pocet_nakazenych>396</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>22957</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>293.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>306</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-27</datum>
       <prirustkovy_pocet_nakazenych>350</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>23307</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>305.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>320</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-28</datum>
       <prirustkovy_pocet_nakazenych>485</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>23792</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>320.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>318</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-29</datum>
       <prirustkovy_pocet_nakazenych>320</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>24112</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>317.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>330</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-30</datum>
       <prirustkovy_pocet_nakazenych>274</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>24386</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>330</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>350</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-08-31</datum>
       <prirustkovy_pocet_nakazenych>256</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>24642</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>349.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>349</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-01</datum>
       <prirustkovy_pocet_nakazenych>499</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>25141</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>349.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>369</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-02</datum>
       <prirustkovy_pocet_nakazenych>645</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>25786</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>368.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>404</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-03</datum>
       <prirustkovy_pocet_nakazenych>675</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>26461</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>404.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>451</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-04</datum>
       <prirustkovy_pocet_nakazenych>797</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>27258</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>450.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>495</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-05</datum>
       <prirustkovy_pocet_nakazenych>504</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>27762</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>495.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>521</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-06</datum>
       <prirustkovy_pocet_nakazenych>410</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>28172</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>521.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>541</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-07</datum>
       <prirustkovy_pocet_nakazenych>561</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>28733</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>540.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>584</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-08</datum>
       <prirustkovy_pocet_nakazenych>1161</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>29894</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>584.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>679</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-09</datum>
       <prirustkovy_pocet_nakazenych>1158</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>31052</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>679</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>752</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-10</datum>
       <prirustkovy_pocet_nakazenych>1382</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>32434</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>752.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>853</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-11</datum>
       <prirustkovy_pocet_nakazenych>1443</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>33877</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>853.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>946</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-12</datum>
       <prirustkovy_pocet_nakazenych>1537</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>35414</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>945.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1093</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-13</datum>
       <prirustkovy_pocet_nakazenych>791</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>36205</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>1093.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1148</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-14</datum>
       <prirustkovy_pocet_nakazenych>1028</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>37233</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>1147.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1214</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-15</datum>
       <prirustkovy_pocet_nakazenych>1676</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>38909</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>1214.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1288</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-16</datum>
       <prirustkovy_pocet_nakazenych>2133</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>41042</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>1287.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1427</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-17</datum>
       <prirustkovy_pocet_nakazenych>3124</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>44166</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>1427.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1676</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-18</datum>
       <prirustkovy_pocet_nakazenych>2108</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>46274</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>1676</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1771</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-19</datum>
       <prirustkovy_pocet_nakazenych>2045</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>48319</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>1771</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1844</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-20</datum>
       <prirustkovy_pocet_nakazenych>984</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>49303</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>1843.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1871</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-21</datum>
       <prirustkovy_pocet_nakazenych>1476</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>50779</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>1871.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>1935</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-22</datum>
       <prirustkovy_pocet_nakazenych>2387</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>53166</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>1935.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2037</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-23</datum>
       <prirustkovy_pocet_nakazenych>2306</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>55472</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2036.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2061</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-24</datum>
       <prirustkovy_pocet_nakazenych>2906</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>58378</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2061.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2030</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-25</datum>
       <prirustkovy_pocet_nakazenych>2946</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>61324</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2030.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2150</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-26</datum>
       <prirustkovy_pocet_nakazenych>1981</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>63305</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2150</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2141</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-27</datum>
       <prirustkovy_pocet_nakazenych>1304</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>64609</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2140.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2187</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-28</datum>
       <prirustkovy_pocet_nakazenych>1284</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>65893</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2186.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2159</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-29</datum>
       <prirustkovy_pocet_nakazenych>1963</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>67856</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2159.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2099</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-09-30</datum>
       <prirustkovy_pocet_nakazenych>2926</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>70782</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2098.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2187</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-01</datum>
       <prirustkovy_pocet_nakazenych>3502</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>74284</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2187.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2272</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-02</datum>
       <prirustkovy_pocet_nakazenych>3795</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>78079</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2272.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2394</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-03</datum>
       <prirustkovy_pocet_nakazenych>2554</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>80633</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2393.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2475</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-04</datum>
       <prirustkovy_pocet_nakazenych>1841</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>82474</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2475.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2552</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-05</datum>
       <prirustkovy_pocet_nakazenych>3118</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>85592</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2552.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>2814</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-06</datum>
       <prirustkovy_pocet_nakazenych>4458</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>90050</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>2814.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3171</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-07</datum>
       <prirustkovy_pocet_nakazenych>5336</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>95386</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3170.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3515</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-08</datum>
       <prirustkovy_pocet_nakazenych>5394</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>100780</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3514.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3785</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-09</datum>
       <prirustkovy_pocet_nakazenych>8618</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>109398</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3785.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4474</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-10</datum>
       <prirustkovy_pocet_nakazenych>4636</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>114034</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4474.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4772</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-11</datum>
       <prirustkovy_pocet_nakazenych>3104</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>117138</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4771.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4952</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-12</datum>
       <prirustkovy_pocet_nakazenych>4308</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>121446</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4952</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>5122</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-13</datum>
       <prirustkovy_pocet_nakazenych>8324</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>129770</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>5122</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>5674</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-14</datum>
       <prirustkovy_pocet_nakazenych>9545</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>139315</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>5674.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>6276</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-15</datum>
       <prirustkovy_pocet_nakazenych>9724</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>149039</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6275.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>6894</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-16</datum>
       <prirustkovy_pocet_nakazenych>11104</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>160143</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6894.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>7249</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-17</datum>
       <prirustkovy_pocet_nakazenych>8713</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>168856</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7249.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>7832</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-18</datum>
       <prirustkovy_pocet_nakazenych>5059</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>173915</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7831.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>8111</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-19</datum>
       <prirustkovy_pocet_nakazenych>8077</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>181992</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>8111</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>8649</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-20</datum>
       <prirustkovy_pocet_nakazenych>11985</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>193977</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>8649.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>9172</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-21</datum>
       <prirustkovy_pocet_nakazenych>14971</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>208948</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>9172.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>9948</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-22</datum>
       <prirustkovy_pocet_nakazenych>14155</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>223103</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>9947.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>10581</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-23</datum>
       <prirustkovy_pocet_nakazenych>15248</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>238351</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>10580.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>11173</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-24</datum>
       <prirustkovy_pocet_nakazenych>12473</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>250824</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11172.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>11710</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-25</datum>
       <prirustkovy_pocet_nakazenych>7300</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>258124</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11709.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>12030</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-26</datum>
       <prirustkovy_pocet_nakazenych>10272</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>268396</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12029.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>12343</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-27</datum>
       <prirustkovy_pocet_nakazenych>15666</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>284062</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12343.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>12869</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-28</datum>
       <prirustkovy_pocet_nakazenych>12977</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>297039</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12869.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>12584</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-29</datum>
       <prirustkovy_pocet_nakazenych>13051</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>310090</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12584.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>12427</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-30</datum>
       <prirustkovy_pocet_nakazenych>13603</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>323693</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12426.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>12192</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-10-31</datum>
       <prirustkovy_pocet_nakazenych>11427</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>335120</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12191.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>12042</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-01</datum>
       <prirustkovy_pocet_nakazenych>6551</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>341671</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12042.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>11935</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-02</datum>
       <prirustkovy_pocet_nakazenych>9239</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>350910</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11935.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>11788</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-03</datum>
       <prirustkovy_pocet_nakazenych>12090</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>363000</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11787.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>11277</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-04</datum>
       <prirustkovy_pocet_nakazenych>15725</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>378725</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11276.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>11669</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-05</datum>
       <prirustkovy_pocet_nakazenych>13234</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>391959</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11669.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>11696</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-06</datum>
       <prirustkovy_pocet_nakazenych>11546</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>403505</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11695.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>11402</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-07</datum>
       <prirustkovy_pocet_nakazenych>7721</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>411226</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11401.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>10872</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-08</datum>
       <prirustkovy_pocet_nakazenych>3609</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>414835</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>10872.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>10452</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-09</datum>
       <prirustkovy_pocet_nakazenych>6048</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>420883</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>10452</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>9996</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-10</datum>
       <prirustkovy_pocet_nakazenych>9056</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>429939</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>9996.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>9563</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-11</datum>
       <prirustkovy_pocet_nakazenych>8921</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>438860</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>9562.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>8591</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-12</datum>
       <prirustkovy_pocet_nakazenych>7874</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>446734</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>8590.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>7825</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-13</datum>
       <prirustkovy_pocet_nakazenych>7358</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>454092</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7825</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>7227</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-14</datum>
       <prirustkovy_pocet_nakazenych>4196</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>458288</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7226.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>6723</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-15</datum>
       <prirustkovy_pocet_nakazenych>1891</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>460179</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6723.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>6478</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-16</datum>
       <prirustkovy_pocet_nakazenych>5414</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>465593</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6477.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>6387</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-17</datum>
       <prirustkovy_pocet_nakazenych>4246</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>469839</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6387.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>5700</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-18</datum>
       <prirustkovy_pocet_nakazenych>5514</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>475353</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>5700</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>5213</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-19</datum>
       <prirustkovy_pocet_nakazenych>6470</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>481823</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>5213.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>5013</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-20</datum>
       <prirustkovy_pocet_nakazenych>5808</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>487631</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>5012.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4791</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-21</datum>
       <prirustkovy_pocet_nakazenych>3191</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>490822</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4791.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4648</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-22</datum>
       <prirustkovy_pocet_nakazenych>1509</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>492331</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4647.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4593</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-23</datum>
       <prirustkovy_pocet_nakazenych>4379</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>496710</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4593.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4445</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-24</datum>
       <prirustkovy_pocet_nakazenych>5861</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>502571</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4445.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4676</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-25</datum>
       <prirustkovy_pocet_nakazenych>4929</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>507500</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4676</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4592</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-26</datum>
       <prirustkovy_pocet_nakazenych>4049</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>511549</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4592.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4247</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-27</datum>
       <prirustkovy_pocet_nakazenych>4462</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>516011</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4246.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4054</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-28</datum>
       <prirustkovy_pocet_nakazenych>2667</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>518678</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4054.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3979</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-29</datum>
       <prirustkovy_pocet_nakazenych>1074</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>519752</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3979.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3917</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-11-30</datum>
       <prirustkovy_pocet_nakazenych>3572</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>523324</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3917.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3802</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-01</datum>
       <prirustkovy_pocet_nakazenych>5180</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>528504</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3802</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3705</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-02</datum>
       <prirustkovy_pocet_nakazenych>4561</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>533065</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3704.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3652</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-03</datum>
       <prirustkovy_pocet_nakazenych>4624</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>537689</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3652.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3734</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-04</datum>
       <prirustkovy_pocet_nakazenych>4747</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>542436</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3734.29</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3775</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-05</datum>
       <prirustkovy_pocet_nakazenych>3312</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>545748</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3775</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3867</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-06</datum>
       <prirustkovy_pocet_nakazenych>1112</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>546860</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3867.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3873</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-07</datum>
       <prirustkovy_pocet_nakazenych>4251</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>551111</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3872.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>3970</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-08</datum>
       <prirustkovy_pocet_nakazenych>5855</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>556966</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>3969.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4066</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-09</datum>
       <prirustkovy_pocet_nakazenych>6414</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>563380</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4066</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4331</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-10</datum>
       <prirustkovy_pocet_nakazenych>5872</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>569252</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4330.71</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4509</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-11</datum>
       <prirustkovy_pocet_nakazenych>6209</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>575461</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4509</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4718</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-12</datum>
       <prirustkovy_pocet_nakazenych>3655</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>579116</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4717.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4767</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-13</datum>
       <prirustkovy_pocet_nakazenych>1998</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>581114</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4766.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>4893</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-14</datum>
       <prirustkovy_pocet_nakazenych>5176</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>586290</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>4893.43</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>5026</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-15</datum>
       <prirustkovy_pocet_nakazenych>7908</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>594198</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>5025.57</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>5319</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-16</datum>
       <prirustkovy_pocet_nakazenych>8256</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>602454</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>5318.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>5582</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-17</datum>
       <prirustkovy_pocet_nakazenych>7614</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>610068</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>5582</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>5831</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-18</datum>
       <prirustkovy_pocet_nakazenych>8836</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>618904</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>5830.86</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>6206</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-19</datum>
       <prirustkovy_pocet_nakazenych>5326</prirustkovy_pocet_nakazenych>
       <kumulativni_pocet_nakazenych>624230</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6206.14</klouzavy_prumer_7_dnu>
+      <klouzavy_prumer_7_dnu>6445</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-20</datum>
-      <prirustkovy_pocet_nakazenych>3402</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>627632</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6444.86</klouzavy_prumer_7_dnu>
+      <prirustkovy_pocet_nakazenych>3403</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>627633</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6646</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-21</datum>
       <prirustkovy_pocet_nakazenych>7950</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>635582</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6645.43</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>635583</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7042</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-22</datum>
       <prirustkovy_pocet_nakazenych>10910</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>646492</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7041.71</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>646493</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7471</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-23</datum>
       <prirustkovy_pocet_nakazenych>14138</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>660630</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7470.57</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>660631</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>8311</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-24</datum>
       <prirustkovy_pocet_nakazenych>4373</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>665003</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>8310.86</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>665004</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7848</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-25</datum>
       <prirustkovy_pocet_nakazenych>2671</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>667674</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7847.86</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>667675</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6967</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-26</datum>
       <prirustkovy_pocet_nakazenych>3031</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>670705</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6967.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>670706</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6639</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-27</datum>
       <prirustkovy_pocet_nakazenych>3781</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>674486</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6639.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>674487</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6693</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-28</datum>
       <prirustkovy_pocet_nakazenych>10935</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>685421</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6693.43</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>685422</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7120</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-29</datum>
       <prirustkovy_pocet_nakazenych>16470</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>701891</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7119.86</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>701892</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7914</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-30</datum>
       <prirustkovy_pocet_nakazenych>17059</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>718950</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7914.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>718951</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>8331</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2020-12-31</datum>
       <prirustkovy_pocet_nakazenych>13306</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>732256</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>8331.43</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>732257</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>9608</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-01</datum>
       <prirustkovy_pocet_nakazenych>3446</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>735702</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>9607.57</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>735703</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>9718</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-02</datum>
       <prirustkovy_pocet_nakazenych>4985</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>740687</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>9718.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>740688</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>9997</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-03</datum>
       <prirustkovy_pocet_nakazenych>6267</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>746954</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>9997.43</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>746955</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>10353</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-04</datum>
       <prirustkovy_pocet_nakazenych>12952</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>759906</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>10352.57</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>759907</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>10641</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-05</datum>
       <prirustkovy_pocet_nakazenych>17397</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>777303</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>10640.71</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>777304</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>10773</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-06</datum>
-      <prirustkovy_pocet_nakazenych>17767</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>795070</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>10773.14</klouzavy_prumer_7_dnu>
+      <prirustkovy_pocet_nakazenych>17768</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>795072</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>10874</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-07</datum>
       <prirustkovy_pocet_nakazenych>14880</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>809950</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>10874.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>809952</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11099</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-08</datum>
       <prirustkovy_pocet_nakazenych>13099</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>823049</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11099.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>823051</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>12478</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-09</datum>
       <prirustkovy_pocet_nakazenych>8436</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>831485</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12478.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>831487</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>12971</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-10</datum>
       <prirustkovy_pocet_nakazenych>4311</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>835796</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12971.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>835798</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>12692</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-11</datum>
       <prirustkovy_pocet_nakazenych>9383</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>845179</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12691.71</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>845181</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>12182</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-12</datum>
-      <prirustkovy_pocet_nakazenych>10805</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>855984</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12181.86</klouzavy_prumer_7_dnu>
+      <prirustkovy_pocet_nakazenych>10808</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>855989</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11241</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-13</datum>
       <prirustkovy_pocet_nakazenych>10915</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>866899</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11240.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>866904</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>10262</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-14</datum>
       <prirustkovy_pocet_nakazenych>8086</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>874985</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>10261.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>874990</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>9291</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-15</datum>
       <prirustkovy_pocet_nakazenych>9299</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>884284</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>9290.71</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>884289</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>8748</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-16</datum>
       <prirustkovy_pocet_nakazenych>5240</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>889524</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>8747.86</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>889529</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>8292</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-17</datum>
       <prirustkovy_pocet_nakazenych>2641</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>892165</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>8291.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>892170</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>8053</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-18</datum>
       <prirustkovy_pocet_nakazenych>7666</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>899831</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>8052.71</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>899836</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7808</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-19</datum>
       <prirustkovy_pocet_nakazenych>9608</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>909439</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7807.43</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>909444</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7636</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-20</datum>
       <prirustkovy_pocet_nakazenych>8215</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>917654</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7636.43</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>917659</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7251</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-21</datum>
       <prirustkovy_pocet_nakazenych>7532</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>925186</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7250.71</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>925191</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7172</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-22</datum>
       <prirustkovy_pocet_nakazenych>8465</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>933651</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7171.57</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>933656</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7052</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-23</datum>
       <prirustkovy_pocet_nakazenych>4239</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>937890</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7052.43</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>937895</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6909</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-24</datum>
       <prirustkovy_pocet_nakazenych>2394</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>940284</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6909.43</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>940289</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6874</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-25</datum>
       <prirustkovy_pocet_nakazenych>6973</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>947257</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6874.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>947262</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6775</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-26</datum>
       <prirustkovy_pocet_nakazenych>9194</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>956451</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6775.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>956456</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6716</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-27</datum>
       <prirustkovy_pocet_nakazenych>8502</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>964953</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6716</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>964958</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6757</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-28</datum>
       <prirustkovy_pocet_nakazenych>8009</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>972962</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6757</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>972967</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6825</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-29</datum>
       <prirustkovy_pocet_nakazenych>8052</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>981014</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6825.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>981019</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6766</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-30</datum>
       <prirustkovy_pocet_nakazenych>4055</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>985069</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6766.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>985074</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6740</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-01-31</datum>
       <prirustkovy_pocet_nakazenych>2573</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>987642</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6739.86</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>987647</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6765</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-01</datum>
       <prirustkovy_pocet_nakazenych>7217</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>994859</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6765.43</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>994864</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6800</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-02</datum>
       <prirustkovy_pocet_nakazenych>9148</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1004007</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6800.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1004012</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6794</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-03</datum>
       <prirustkovy_pocet_nakazenych>9666</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1013673</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6793.71</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1013678</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6960</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-04</datum>
       <prirustkovy_pocet_nakazenych>8106</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1021779</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6960</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1021784</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>6974</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-05</datum>
       <prirustkovy_pocet_nakazenych>8621</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1030400</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>6973.86</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1030405</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7055</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-06</datum>
       <prirustkovy_pocet_nakazenych>4820</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1035220</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7055.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1035225</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7164</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-07</datum>
       <prirustkovy_pocet_nakazenych>2451</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1037671</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7164.43</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1037676</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7147</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-08</datum>
       <prirustkovy_pocet_nakazenych>7779</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1045450</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7147</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1045455</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7227</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-09</datum>
       <prirustkovy_pocet_nakazenych>10281</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1055731</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7227.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1055736</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7389</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-10</datum>
       <prirustkovy_pocet_nakazenych>9537</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1065268</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7389.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1065273</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7371</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-11</datum>
       <prirustkovy_pocet_nakazenych>9017</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1074285</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7370.71</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1074290</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7501</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-12</datum>
       <prirustkovy_pocet_nakazenych>8827</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1083112</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7500.86</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1083117</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7530</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-13</datum>
       <prirustkovy_pocet_nakazenych>5141</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1088253</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7530.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1088258</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7576</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-14</datum>
       <prirustkovy_pocet_nakazenych>2879</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1091132</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7576.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1091137</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7637</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-15</datum>
       <prirustkovy_pocet_nakazenych>8905</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1100037</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7637.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1100042</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>7798</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-16</datum>
       <prirustkovy_pocet_nakazenych>12608</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1112645</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>7798.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1112650</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>8131</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-17</datum>
       <prirustkovy_pocet_nakazenych>10937</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1123582</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>8130.57</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1123587</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>8331</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-18</datum>
       <prirustkovy_pocet_nakazenych>11701</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1135283</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>8330.57</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1135288</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>8714</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-19</datum>
       <prirustkovy_pocet_nakazenych>11286</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1146569</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>8714</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1146574</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>9065</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-20</datum>
       <prirustkovy_pocet_nakazenych>6775</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1153344</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>9065.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1153349</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>9299</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-21</datum>
       <prirustkovy_pocet_nakazenych>4066</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1157410</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>9298.71</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1157415</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>9468</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-22</datum>
       <prirustkovy_pocet_nakazenych>11403</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1168813</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>9468.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1168818</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>9825</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-23</datum>
       <prirustkovy_pocet_nakazenych>15840</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1184653</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>9825.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1184658</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>10287</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-24</datum>
       <prirustkovy_pocet_nakazenych>13794</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1198447</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>10286.86</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1198452</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>10695</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-25</datum>
       <prirustkovy_pocet_nakazenych>14586</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1213033</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>10695</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1213038</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11107</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-26</datum>
-      <prirustkovy_pocet_nakazenych>14773</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1227806</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11107.14</klouzavy_prumer_7_dnu>
+      <prirustkovy_pocet_nakazenych>14775</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>1227813</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11606</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-27</datum>
       <prirustkovy_pocet_nakazenych>7822</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1235628</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11605.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1235635</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11755</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-02-28</datum>
       <prirustkovy_pocet_nakazenych>4586</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1240214</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11754.86</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1240221</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11829</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-03-01</datum>
       <prirustkovy_pocet_nakazenych>12323</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1252537</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11829.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1252544</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11961</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-03-02</datum>
       <prirustkovy_pocet_nakazenych>16775</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1269312</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11960.57</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1269319</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>12094</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-03-03</datum>
       <prirustkovy_pocet_nakazenych>15238</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1284550</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12094.14</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1284557</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>12301</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-03-04</datum>
-      <prirustkovy_pocet_nakazenych>14641</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1299191</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12300.43</klouzavy_prumer_7_dnu>
+      <prirustkovy_pocet_nakazenych>14642</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>1299199</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>12309</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-03-05</datum>
       <prirustkovy_pocet_nakazenych>13166</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1312357</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12308.29</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1312365</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>12079</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-03-06</datum>
       <prirustkovy_pocet_nakazenych>9121</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1321478</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12078.71</klouzavy_prumer_7_dnu>
+      <kumulativni_pocet_nakazenych>1321486</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>12264</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-03-07</datum>
-      <prirustkovy_pocet_nakazenych>3978</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1325456</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12264.29</klouzavy_prumer_7_dnu>
+      <prirustkovy_pocet_nakazenych>3980</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>1325466</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>12178</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-03-08</datum>
-      <prirustkovy_pocet_nakazenych>10634</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1336090</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>12177.43</klouzavy_prumer_7_dnu>
+      <prirustkovy_pocet_nakazenych>10640</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>1336106</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11937</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-03-09</datum>
-      <prirustkovy_pocet_nakazenych>15341</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1351431</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11936.14</klouzavy_prumer_7_dnu>
+      <prirustkovy_pocet_nakazenych>15346</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>1351452</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11733</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-03-10</datum>
-      <prirustkovy_pocet_nakazenych>14537</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1365968</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11731.29</klouzavy_prumer_7_dnu>
+      <prirustkovy_pocet_nakazenych>14539</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>1365991</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11633</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-03-11</datum>
-      <prirustkovy_pocet_nakazenych>11220</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1377188</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11631.14</klouzavy_prumer_7_dnu>
+      <prirustkovy_pocet_nakazenych>11235</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>1377226</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11147</klouzavy_prumer_7_dnu>
     </DatumPrumer>
     <DatumPrumer>
       <datum>2021-03-12</datum>
-      <prirustkovy_pocet_nakazenych>14920</prirustkovy_pocet_nakazenych>
-      <kumulativni_pocet_nakazenych>1392108</kumulativni_pocet_nakazenych>
-      <klouzavy_prumer_7_dnu>11142.43</klouzavy_prumer_7_dnu>
+      <prirustkovy_pocet_nakazenych>14967</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>1392193</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11404</klouzavy_prumer_7_dnu>
+    </DatumPrumer>
+    <DatumPrumer>
+      <datum>2021-03-13</datum>
+      <prirustkovy_pocet_nakazenych>6936</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>1399129</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>11092</klouzavy_prumer_7_dnu>
+    </DatumPrumer>
+    <DatumPrumer>
+      <datum>2021-03-14</datum>
+      <prirustkovy_pocet_nakazenych>3291</prirustkovy_pocet_nakazenych>
+      <kumulativni_pocet_nakazenych>1402420</kumulativni_pocet_nakazenych>
+      <klouzavy_prumer_7_dnu>10993</klouzavy_prumer_7_dnu>
     </DatumPrumer>
   </data>
 </RootobjectPrumer>

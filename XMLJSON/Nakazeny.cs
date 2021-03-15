@@ -28,7 +28,7 @@ namespace XMLJSON
         public string datum { get; set; }
         public int prirustkovy_pocet_nakazenych { get; set; }
         public int kumulativni_pocet_nakazenych { get; set; }
-        public double klouzavy_prumer_7_dnu { get; set; }
+        public int klouzavy_prumer_7_dnu { get; set; }
     }
 
 }
